@@ -1,0 +1,13 @@
+D01|ALLOW
+D02|DENY_ROLE
+D03|DENY_ROLE
+D04|ALLOW
+D05|ALLOW
+D06|DENY_ROLE
+D07|ALLOW
+D08|ALLOW
+D09|ALLOW
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.359 s -- in club.access.AccessCheckerTest
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0
+[INFO] BUILD SUCCESS
+[INFO] Finished at: 2026-11-20T05:05:36+03:00
